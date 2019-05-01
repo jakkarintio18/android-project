@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".northActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!--start-->
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp">
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="6dp">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:src="@drawable/nouth1"
+                            android:layout_width="match_parent"
+                            android:layout_height="240dp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textAlignment="center"
+                            android:textSize="18sp"
+                            android:text="10 ที่เที่ยวภาคเหนือ \n เมื่อสายฝนผ่านไป ลมหนาวก็เริ่มพัดโชยเข้ามากระทบผิวกาย พร้อมกับใจที่นึกไปถึงสถานที่อากาศดีสุดแสนโรแมนติก ยอดดอยสูงเสียดฟ้า ทะเลหมอกขาวโพลนห่อหุ้มขุนเขาสลับซับซ้อน โอบล้อมด้วยเมฆหมอกจาง ๆ
+
+                            " />
+
+                    </LinearLayout>
+
+
+                </android.support.v7.widget.CardView>
+            </FrameLayout>
+            <!-- end -->
+
+            <!--start-->
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp">
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="6dp">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:src="@drawable/n1"
+                            android:layout_width="match_parent"
+                            android:layout_height="240dp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="18sp"
+                            android:text="1. ดอยอินทนนท์ จังหวัดเชียงใหม่ \n “ดอยอินทนนท์” ยอดเขาที่สูงที่สุดในประเทศไทย อีกหนึ่งแลนด์มาร์คสำคัญในจังหวัดเชียงใหม่ เรียกได้ว่าเป็นสถานที่ท่องเที่ยวยอดฮิตอันดับต้น ๆ ของภาคเหนือเลยก็ว่าได้ อุทยานดอยอินทนนท์มีความสมบูรณ์ทางธรรมชาติอย่างมาก มีสภาพป่าที่หลากหลายและเป็นผืนป่าโบราณ แต่เดิมนั้นชาวบ้านเรียกกันว่า “ดอยหลวง” หรือ “ดอยอ่างกา” \n " />
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+            </FrameLayout>
+            <!-- end -->
+
+            <!--start-->
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp">
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="6dp">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:src="@drawable/n3"
+                            android:layout_width="match_parent"
+                            android:layout_height="240dp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="18sp"
+                            android:text="2. ไร่บุญรอด จังหวัดเชียงราย \n ไร่บุญรอด หรือ บุญรอดฟาร์ม จังหวัดเชียงราย (Boon Rawd Farm) สวยงามด้วยไร่ชากว้างใหญ่สุดสายตา โอบล้อมด้วยภูเขากว้างใหญ่ และอากาศดีตลอดทั้งปี ในพื้นที่ใหญ่โตขนาด 8000 ไร่ ที่นี่มีอะไรๆให้เที่ยวเล่นแบบชิลล์ๆมากมาย ไม่ว่าจะเป็นส่วนของสวนสัตว์ แปลงดอกไม้ ไร่ชา หรือจะไปเก็บสตรอเบอรี่ สำหรับคนชอบ Adventure แนะนำให้โรยตัวผ่านลวดสลิง หรือที่เรียกกันว่า Zipline ด้วยความยาวกว่า 1,400 เมตร จากเนินในไร่บุญรอด ผ่านไร่ชา ระหว่างทางมองเห็นวิวในไร่ได้ 180 องศาบอกเลยว่าฟินสุดๆ \n" />
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+            </FrameLayout>
+            <!-- end -->
+            <!--start-->
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp">
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="6dp">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:src="@drawable/n2"
+                            android:layout_width="match_parent"
+                            android:layout_height="240dp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="18sp"
+                            android:text="3. ม่อนแจ่ม จังหวัดเชียงใหม่ \n ม่อนแจ่ม คือ ส่วนหนึ่งของโครงการหลวงหนองหอย ในอำเภอแม่ริม จังหวัดเชียงใหม่ โครงการหลวงหนองหอยนั้นเป็นโครงการปลูกพืชเมืองหนาว บนดอย ซึ่งส่วนใหญ่เป็นผักสดๆ กรอบๆ และ สตรอเบอรี่ทั้งพันธ์หวาน(พันธ์หวาน 80) พันธ์กรอบ(เปรี้ยวเล็กน้อย) สิ่งที่จะทำให้คุณฟินบนดอยม่อนแจ่มแห่งนี้ ก็คือ การชมวิวทิวทัศน์ ถ่ายภาพสวยๆ กับดอกไม้ต่างๆ ที่ปลูกเอาไว้ \n " />
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+            </FrameLayout>
+            <!-- end -->
+
+            <!--start-->
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp">
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="6dp">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:src="@drawable/n4"
+                            android:layout_width="match_parent"
+                            android:layout_height="240dp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="18sp"
+                            android:text="4. อุทยานแห่งชาติแจ้ซ้อน จังหวัดลำปาง \n อุทยานแห่งชาติแจ้ซ้อน ลำปาง มีพื้นที่ครอบคลุมอำเภอเมืองปาน อำเภอแจ้ห่ม และอำเภอเมืองลำปาง มีสภาพป่าอันอุดมสมบูรณ์และเป็นแหล่งต้นน้ำลำธารที่สมบูรณ์ เนื้อที่ทั้งหมดประมาณ 592 ตารางกิโลเมตร เป็นแนวแบ่งเขตระหว่างลำปาง และเชียงใหม่ ที่นี่มีทั้งน้ำตกเย็นและบ่อน้ำพุร้อน จึงเป็นที่นิยมของนักท่องเที่ยวอย่างมาก \n" />
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+            </FrameLayout>
+            <!-- end -->
+
+            <!--start-->
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp">
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="6dp">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:src="@drawable/n5"
+                            android:layout_width="match_parent"
+                            android:layout_height="240dp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="18sp"
+                            android:text="5. แม่กำปอง จังหวัดเชียงใหม่ \n ธรรมชาติมากล้น ผู้คนน้ำใจดี มากมีดอกเอื้องดิน สู่ถิ่นเมี่ยงชาและกาแฟ มียาแท้สมุนไพร ชื่นฉ่ำใจน้ำตกเย็น เห็นวิวทิวเขาสวย ร่มรื่นด้วยสวนสนบนม่อนล้าน … นี่คือสิ่งที่จะได้พบหากไปเยือน “บ้านแม่กำปอง” จังหวัดเชียงใหม่ หมู่บ้านเล็กๆนี้ถูกโอบล้อมไปด้วยต้นไม้และป่าเขา อากาศเย็นตลอดปี มีทรัพยากรและระบบนิเวศที่อุดมสมบูรณ์มาก \n" />
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+            </FrameLayout>
+            <!-- end -->
+
+            <!--start-->
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp">
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="6dp">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:src="@drawable/n6"
+                            android:layout_width="match_parent"
+                            android:layout_height="240dp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="18sp"
+                            android:text="6. ขุนช่างเคี่ยน ใกล้ดอยสุเทพ-ปุย จังหวัดเชียงใหม่ \n สำหรับใครที่กำลังวางแผนขึ้นไปเที่ยวเชียงใหม่ในช่วงสิ้นเดือนธันวาคม-ต้นเดือนมกราคมนี้ ขอแนะนำว่าห้ามพลาดที่จะไปชม ซากุระเมืองไทยที่สถานีวิจัยการเกษตรขุนช่างเคี่ยน เพราะในช่วงสิ้นปีถึงขึ้นปีใหม่เช่นนี้จะเป็นช่วงที่ดอกนางพญาเสือโคร่งกำลังบานได้ที่ สวยงามและอลังการมากทั่วทั้งพื้นที่จะถูกแต่งแต้มไปด้วยสีชมพูสดใส \n " />
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+            </FrameLayout>
+            <!-- end -->
+
+            <!--start-->
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp">
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="6dp">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:src="@drawable/n7"
+                            android:layout_width="match_parent"
+                            android:layout_height="240dp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="18sp"
+                            android:text="ดอยหลวงเชียงดาว จังหวัดเชียงใหม่ \n ดอยหลวงเชียงดาว จังหวัดเชียงใหม่ ถ้าได้ลองกางเต้นท์นอนสักคืน “จะให้ฟิลล์แบบ นี่เราอยู่บนสวรรค์งั้นหรอ?” ดอยหลวงเชียงดาว หรือดอยเชียงดาว มีความสูง 2,225 เมตร เป็นยอดเขาสูงอันดับ 3 ของประเทศไทย รองจากดอยอินทนนท์ จากบนยอดดอยซึ่งเป็นที่ราบแคบ ๆ สามารถมองเห็นทัศนียภาพอันงดงามรอบด้าน คือ ทะเลหมอกด้านอำเภอเชียงดาว ดอยสามพี่น้อง เทือกดอยเชียงดาว ตลอดจนถึงยอดดอยอินทนนท์อันไกลลิบอากาศเย็น ลมแรง และสมบูรณ์ด้วยดอกไม้ป่า  \n" />
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+            </FrameLayout>
+            <!-- end -->
+
+            <!--start-->
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp">
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="6dp">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:src="@drawable/n8"
+                            android:layout_width="match_parent"
+                            android:layout_height="240dp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="18sp"
+                            android:text="8. ดอยอ่างขาง จังหวัดเชียงใหม่ \n เป็นสถานที่ท่องเที่ยวสุดฮอตฮิตจริง ๆ สำหรับ “ดอยอ่างขาง” จังหวัดเชียงใหม่ จากเสียงลือ เสียงเล่าอ้างถึงความสวยงาม ความมีเสน่หของธรรมชาติอันแสนบริสุทธิ์ ดอกไม้ พรรณไม้สวย ๆ แปลกตา อยากมาสัมผัสอากาศอันหนาวเหน็บ มาพิสูจน์ว่ามันจะหนาวสะทานทรวงขนาดไหน มาเป่าไอออกจากปากเวลาพูดคุย ^^ กับอากาศเย็นจับขั้วหัวใจ \n" />
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+            </FrameLayout>
+            <!-- end -->
+
+            <!--start-->
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp">
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="6dp">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:src="@drawable/n9"
+                            android:layout_width="match_parent"
+                            android:layout_height="240dp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="18sp"
+                            android:text="9. ดอยเสมอดาว จังหวัดน่าน  \n ดอยเสมอดาว เป็นภูเขาที่มีลานให้นักท่องเที่ยวพักผ่อน กางเต็นท์ และเป็นจุดชมพระอาทิตย์ตกและชมพระอาทิตย์ขึ้น ที่วิวดีอีกที่หนึ่งเลยที่เดี๋ยว ในช่วงหน้าหนาวสามารถเห็นทะแลหมอกในตอนเข้า สำหรับผู้ที่มากางเต็นนอนกลางคืนยังมีโอกาสที่จะพบหิ้งห้อยอีกด้วย \n " />
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+            </FrameLayout>
+            <!-- end -->
+
+            <!--start-->
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp">
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="6dp">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:src="@drawable/n10"
+                            android:layout_width="match_parent"
+                            android:layout_height="240dp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="18sp"
+                            android:text="10. โครงการพระราชดำริปางตอง 2 (ปางอุ๋ง) ปาย จังหวัดแม่ฮ่องสอน \n ภาพทิวสนสองใบและสนสามใบเรียงรายตลอดแนวอ่างเก็บน้ำอันกว้างใหญ่กลางอ้อมกอดของขุนเขาเขียวชอุ่มยามเช้า คือมนต์เสน่ห์ของปางอุ๋งที่นำพานักเดินทางเข้ามาเยือนที่นี่อยู่ตลอดทั้งปี " />
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+            </FrameLayout>
+            <!-- end -->
+
+            <!--start-->
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp">
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="6dp">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:src="@drawable/n5"
+                            android:layout_width="match_parent"
+                            android:layout_height="240dp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="18sp"
+                            android:text=" \n" />
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+            </FrameLayout>
+            <!-- end -->
+
+            <Button
+                android:id="@+id/btnmapN"
+                android:text="map"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#fff"
+                android:background="@color/colorPrimary"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

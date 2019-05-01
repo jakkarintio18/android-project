@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".southActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!--start-->
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp">
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="6dp">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:src="@drawable/headsouth"
+                            android:layout_width="match_parent"
+                            android:layout_height="240dp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textAlignment="center"
+                            android:textSize="18sp"
+                            android:text="7 สถานที่เที่ยวภาคใต้ยอดฮิต \n “ภาคใต้” นับเป็นภูมิภาคหนึ่งของประเทศไทย ที่มีแหล่งท่องเที่ยวสวย ๆ ให้เราตามเก็บเยอะมาก เพราะที่ตั้งของภาคใต้ขนาบด้วยทั้งทะเลอ่าวไทยและทะเลอันดามัน \n " />
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+            </FrameLayout>
+            <!-- end -->
+
+            <!--start-->
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp">
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="6dp">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:src="@drawable/s1"
+                            android:layout_width="match_parent"
+                            android:layout_height="240dp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="18sp"
+                            android:text="1. จุดชมวิวเสม็ดนางชี่ \n จุดชมวิวแห่งใหม่ในจังหวัดพังงา เป็นจุดชมวิวที่ควรมากางเต็นท์พักแรมในวันว่างๆ นักท่องเที่ยวส่วนใหญ่ที่มาจุดชมวิวเสม็ดนางชีมักจะเดินทางในช่วงบ่ายก่อนพระอาทิตย์ตก แล้วพักค้างแรมที่นี่ 1 คืน เพราะเมื่อพระอาทิตย์ใกล้ตกดิน คุณจะได้พบกับภูเขาหินปูนกลางทะเลที่ถูกแสงแดดสาดส่องกระทบจนกลายเป็นสีทองอร่าม และเมื่อพระอาทิตย์ลับขอบฟ้า คุณก็จะสามารถนอนมองดวงดาวระยิบระยับเต็มท้องฟ้า \n " />
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+            </FrameLayout>
+            <!-- end -->
+
+            <!--start-->
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp">
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="6dp">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:src="@drawable/s2"
+                            android:layout_width="match_parent"
+                            android:layout_height="240dp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="18sp"
+                            android:text="2. เมืองเก่าสงขลา \n ใครสายฮิปสเตอร์ หรือใครอยากได้ภาพถ่ายอาร์ตๆเก๋ๆต้องห้ามพลาด! เพราะเมืองเก่าสงขลาจะมีมุมให้คุณได้ถ่ายรูปแนวสตรีทอาร์ตมากมาย โดยจะมีพื้นหลังเป็นบ้านเรือนและตึกอันเก่าแก่ที่เป็นเอกลักษณ์ของที่นี่คอยเคียงข้างคุณตลอดเส้นทาง \n" />
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+            </FrameLayout>
+            <!-- end -->
+            <!--start-->
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp">
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="6dp">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:src="@drawable/s3"
+                            android:layout_width="match_parent"
+                            android:layout_height="240dp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="18sp"
+                            android:text="3. เขื่อนรัชชประภา \n เขื่อนรัชชประภา หรือเขื่อนเชี่ยวหลานที่นักท่องเที่ยวชาวไทยและชาวต่างชาติรู้จักกันดี... และด้วยความสวยงามของภูเขาหินและธรรมชาติรอบๆ ที่นี่จึงได้รับฉายาว่าเป็น “กุ้ยหลินเมืองไทย” เสน่ห์ของที่นี่ก็คงจะหนีไม่พ้นธรรมชาติที่อุดมสมบูรณ์ และความเงียบสงบ อีกทั้งที่นี่ไม่มีสัญญาณโทรศัพท์ทำให้คนที่รักธรรมชาติตัวยงติดใจจนต้องกลับมาอีก \n " />
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+            </FrameLayout>
+            <!-- end -->
+
+
+            <!--start-->
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp">
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="6dp">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:src="@drawable/s4"
+                            android:layout_width="match_parent"
+                            android:layout_height="240dp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="18sp"
+                            android:text="4. ล่องแก่งหนามมดแดง \n ที่เที่ยวสุดแอดเวนเจอร์ยอดฮิตของพัทลุง! ใครรักความท้าทายและสายน้ำต้องไม่พลาดด้วยประการทั้งปวง ความสนุกของกิจกรรมนี้อยู่ที่กระแสน้ำที่ไหลแรง และเกาะแก่งหินตามจุดต่างๆที่ขวางลำน้ำ แถมที่นี่ยังสามารถเที่ยวได้ตลอดทั้งปี \n" />
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+            </FrameLayout>
+            <!-- end -->
+
+            <!--start-->
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp">
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="6dp">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:src="@drawable/s5"
+                            android:layout_width="match_parent"
+                            android:layout_height="240dp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="18sp"
+                            android:text="5. สระมรกต กระบี่ \n สระมรกตเกิดมาจากธารน้ำอุ่น ในผืนป่าที่ราบต่ำของภาคใต้ มีอุณภูมิประมาณ 30 – 50 องศาเซลเซียส ด้วยความแปลกตาและสวยงามของสระน้ำแห่งนี้ จึงทำให้ที่นี่กลายเป็นแลนด์มาร์คห้ามพลาดของนักท่องเที่ยวที่ได้มาจังหวัดกระบี่ และหากได้มาชมสระมรกตแล้ว ให้คุณเดินเข้าไปอีกนิดเพื่อไปชมบ่อน้ำผุดที่เป็นต้นกำเนิดของสระมรกตแห่งนี้ รับรองว่าสวยงามกว่าในรูปแน่นอน! \n" />
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+            </FrameLayout>
+            <!-- end -->
+
+            <!--start-->
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp">
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="6dp">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:src="@drawable/s6"
+                            android:layout_width="match_parent"
+                            android:layout_height="240dp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="18sp"
+                            android:text="6. เกาะเต่า \n สายดำน้ำ ยังไงก็ต้องไม่พลาด เกาะเต่า เพราะที่นี่คือ แหล่งดำน้ำสวยติดอันดับโลก และ ยังติดอันดับ 20 ชายหาด ที่ดีที่สุดในประเทศไทยอีกด้วย ที่นี่มีจุดดำน้ำหลายจุด ทั้งดำน้ำลึก และ ดำน้ำตื้น มีปะการังที่สวยงาม และเป็นที่อยู่ของสัตว์น้ำนานาชนิด \n" />
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+            </FrameLayout>
+            <!-- end -->
+
+            <!--start-->
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp">
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="6dp">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:src="@drawable/s7"
+                            android:layout_width="match_parent"
+                            android:layout_height="240dp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="18sp"
+                            android:text="7. เกาะหลีเป๊ะ สตูล \n  เกาะหลีเป๊ะ ตั้งอยู่ในอุทยานแห่งชาติตะรุเตา จังหวัดสตูล ที่นี่อุดมไปด้วยความสวยงามธรรมชาติของปะการังรอบเกาะ รวมถึงหาดทรายสีขาวละเอียด น้ำทะเลที่ใสปิ๊ง และที่สำคัญคือ เป็นแหล่งที่อยู่ของเหล่าปลานีโม่ หรือ ปลาการ์ตูน \n " />
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+            </FrameLayout>
+            <!-- end -->
+
+            <Button
+                android:id="@+id/btnmapS"
+                android:text="map"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#fff"
+                android:background="@color/colorPrimary"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

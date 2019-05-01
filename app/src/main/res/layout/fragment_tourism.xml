@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".tourism">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="MissingConstraints">
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginBottom="8dp"
+            android:orientation="vertical">
+
+
+            <ImageButton
+                android:id="@+id/btnimagN"
+                android:layout_width="815dp"
+                android:layout_height="180dp"
+                android:src="@drawable/n" />
+
+            <ImageButton
+                android:id="@+id/btnimagNe"
+                android:layout_width="815dp"
+                android:layout_height="180dp"
+                android:src="@drawable/ne" />
+
+            <ImageButton
+                android:id="@+id/btnimagE"
+                android:layout_width="815dp"
+                android:layout_height="180dp"
+                android:src="@drawable/e" />
+
+            <ImageButton
+                android:id="@+id/btnimagC"
+                android:layout_width="815dp"
+                android:layout_height="180dp"
+                android:src="@drawable/c"  />
+
+            <ImageButton
+                android:id="@+id/btnimagS"
+                android:layout_width="815dp"
+                android:layout_height="180dp"
+                android:src="@drawable/s"  />
+
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

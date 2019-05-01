@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "108076588966",
+    "firebase_url": "https://my-firebasenew.firebaseio.com",
+    "project_id": "my-firebasenew",
+    "storage_bucket": "my-firebasenew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108076588966:android:bccb33a72fee0e05",
+        "android_client_info": {
+          "package_name": "com.example.travelo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108076588966-dd3onasdol2tfgkjbme357vpl6nb0pbk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelo",
+            "certificate_hash": "6f03f134aa3c667c51887597d3227a06e53dc6d7"
+          }
+        },
+        {
+          "client_id": "108076588966-l001q3556m9nn08o55opnsucf6eckno1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelo",
+            "certificate_hash": "61cbec4be70e4f2260fc365e5469cefe86154233"
+          }
+        },
+        {
+          "client_id": "108076588966-0fl3g5pjg030983e5l8a7liu3k6nke3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2lgborGcPrRlnseGRY_DJBnUlzTrAuEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108076588966-0fl3g5pjg030983e5l8a7liu3k6nke3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
